@@ -1,0 +1,47 @@
+[
+  {
+    "nim": "22001",
+    "nama": "Ari",
+    "nilai": {
+      "matematika": 88,
+      "algoritma": 92,
+      "basis_data": 85
+    }
+  },
+  {
+    "nim": "21002",
+    "nama": "Budi",
+    "nilai": {
+      "matematika": 75,
+      "algoritma": 80,
+      "sistem_operasi": 70
+    }
+  },
+  {
+    "nim": "23003",
+    "nama": "Citra",
+    "nilai": {
+      "jaringan": 90,
+      "basis_data": 88,
+      "pemrograman": 85
+    }
+  },
+  {
+    "nim": "22004",
+    "nama": "Dewi",
+    "nilai": {
+      "matematika": 78,
+      "struktur_data": 82,
+      "pemrograman": 80
+    }
+  },
+  {
+    "nim": "20005",
+    "nama": "Eko",
+    "nilai": {
+      "ekonomi": 90,
+      "manajemen": 95,
+      "pemasaran": 88
+    }
+  }
+]
