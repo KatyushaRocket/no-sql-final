@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "mahasiswa:001",
+    "nama": "Ari",
+    "jurusan": "Teknik Informatika",
+    "angkatan": 2022
+  },
+  {
+    "_id": "mahasiswa:002",
+    "nama": "Budi",
+    "jurusan": "Sistem Informasi",
+    "angkatan": 2021
+  },
+  {
+    "_id": "mahasiswa:003",
+    "nama": "Citra",
+    "jurusan": "Teknik Elektro",
+    "angkatan": 2023
+  },
+  {
+    "_id": "mahasiswa:004",
+    "nama": "Dewi",
+    "jurusan": "Teknik Sipil",
+    "angkatan": 2022
+  },
+  {
+    "_id": "mahasiswa:005",
+    "nama": "Eko",
+    "jurusan": "Manajemen",
+    "angkatan": 2020
+  }
+]
